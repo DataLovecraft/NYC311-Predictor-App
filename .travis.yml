@@ -10,6 +10,7 @@ cache:
 
 install:
   # Install this package listed in the pipfile
+  - pip install pipenv
   - pipenv install
 
   # Install this package and the packages listed in requirements.txt.
