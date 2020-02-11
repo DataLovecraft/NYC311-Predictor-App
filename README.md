@@ -1,7 +1,11 @@
-NYC-311
-==============================
+*******
+# NYC-311
+*******
 
-An app predicting NYC 311 calls
+# Analysis of the Titanic dataset
+
+This projects goal is to analyze NYCs 311 dataset and build a predictive model.
+
 
 Project Organization
 ------------
