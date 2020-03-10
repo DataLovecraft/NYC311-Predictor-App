@@ -1,11 +1,9 @@
 *******
-# NYC-311
+# NYC 311
 *******
 
-# Analysis of the Titanic dataset
-
-This projects goal is to analyze NYCs 311 dataset and build a predictive model.
-
+- Analysis of NYCs 311 dataset
+- Flask prediction app
 
 Project Organization
 ------------
